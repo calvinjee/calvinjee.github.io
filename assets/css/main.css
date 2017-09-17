@@ -18,6 +18,10 @@
 		vertical-align: baseline;
 	}
 
+	a {
+		text-decoration: none;
+	}
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
@@ -1631,4 +1635,8 @@
 .proj p {
 	font-size: 0.85em;
 	line-height: 1.7em;
+}
+
+#footer ul {
+	margin-bottom: 0.2em;
 }
